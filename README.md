@@ -2,11 +2,11 @@
 
 This repo contains data related to my mobile apps.
 
-My first app is Match Mate (previously called Junior Cricket Scorer), which is now a versatile multi-format scorer.  
+My first app is Junior Cricket Scorer, which is now a versatile multi-format scorer, capable of scoring up to 50 over games.  
 
-It is presently available only for iOS devices.  In time, I would like to make this for other OS.
+It is presently available only for iOS devices.  
 
-## Match Mate 
+## Cricket Scorer
 
 The app was written with these things in mind:
 
@@ -20,8 +20,6 @@ This repository contains further information about the app and its open data.  F
 ## Programming Language
 
 The app is written in Objective-C.  
-
-For my own education, I thought it best to learn the 'C' way first, and consider Swift or cross-platform approaches later.  It has taught me a lot about the history of NextStep and the early decisions of Steve Jobs that live on in Apple today.
 
 # Where to get it
 
